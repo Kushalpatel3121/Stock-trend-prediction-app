@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/9c1e7848-f0c0-4255-a647-2b9abec6a164)
 ---
 **Steps to predicting the price: **
-1. Visit **(https://concise-articles.streamlit.app/)** 🔗
+1. Visit **https://predict-my-stock.streamlit.app/** 🔗
 2. Find your favourite stock Ticker online and paste it.
 3. Get the charts ready in seconds.⚡
 
